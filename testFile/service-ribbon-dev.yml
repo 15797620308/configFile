@@ -8,3 +8,4 @@ zuul:
     api-a:
       path: /api-a/**
       serviceId: service-hi
+foo: foo version 3
